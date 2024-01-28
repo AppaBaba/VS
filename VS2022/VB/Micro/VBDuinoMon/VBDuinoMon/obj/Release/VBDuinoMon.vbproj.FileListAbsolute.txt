@@ -1,0 +1,23 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.VbduinoMon.resources
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.Resources.resources
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\bin\Release\VBDuinoMon.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.VbduinoMon.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMon\VBDuinoMon\obj\Release\VBDuinoMon.pdb

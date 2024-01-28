@@ -1,0 +1,15 @@
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\bin\Debug\net6.0\CSConColor.exe
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\bin\Debug\net6.0\CSConColor.deps.json
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\bin\Debug\net6.0\CSConColor.runtimeconfig.json
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\bin\Debug\net6.0\CSConColor.dll
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\bin\Debug\net6.0\CSConColor.pdb
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.csproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.AssemblyInfoInputs.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.AssemblyInfo.cs
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.csproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.dll
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\refint\CSConColor.dll
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.pdb
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\CSConColor.genruntimeconfig.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConColor\CSConColor\obj\Debug\net6.0\ref\CSConColor.dll

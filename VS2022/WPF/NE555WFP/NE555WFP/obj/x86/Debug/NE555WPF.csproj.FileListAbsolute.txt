@@ -1,0 +1,82 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFPold\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFPold\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.Cache
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.cache
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\darel\Documents\NE555B\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe.config
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe.config
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe.config
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.AssemblyReference.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.CoreCompileInputs.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe.config
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.AssemblyReference.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\App.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF_MarkupCompile.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.g.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.Properties.Resources.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.GenerateResource.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.csproj.CoreCompileInputs.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\NE555WFP\NE555WFP\obj\x86\Debug\NE555WPF.pdb

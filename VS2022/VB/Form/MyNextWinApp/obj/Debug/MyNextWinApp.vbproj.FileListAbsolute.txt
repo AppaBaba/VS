@@ -1,0 +1,57 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\bin\Debug\MyNextWinApp.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\bin\Debug\MyNextWinApp.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\bin\Debug\MyNextWinApp.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.Form1.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.GenerateResource.Cache
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.xml
+C:\Users\MyMCPC\Documents\Visual Studio 2008\Projects\Popfly\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.pdb
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\bin\Debug\MyNextWinApp.exe
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\bin\Debug\MyNextWinApp.pdb
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\bin\Debug\MyNextWinApp.xml
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.vbprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.Form1.resources
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.Resources.resources
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.exe
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.xml
+C:\Users\darel\Documents\VS2008\Projects\MyName\Lachlanh\MyNextWinApp\obj\Debug\MyNextWinApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Form1.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.pdb
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe.config
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.pdb
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.xml
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Form1.resources
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Resources.resources
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.exe
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.xml
+C:\Users\darel\source\repos\VS\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe.config
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\bin\Debug\MyNextWinApp.xml
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.AssemblyReference.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Form1.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.Resources.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.GenerateResource.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.vbproj.CoreCompileInputs.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.xml
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\VB\VBForm\MyNextWinApp\obj\Debug\MyNextWinApp.pdb

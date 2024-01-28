@@ -1,0 +1,17 @@
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\bin\Debug\net7.0-windows\CSCal2NumForms.exe
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\bin\Debug\net7.0-windows\CSCal2NumForms.deps.json
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\bin\Debug\net7.0-windows\CSCal2NumForms.runtimeconfig.json
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\bin\Debug\net7.0-windows\CSCal2NumForms.dll
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\bin\Debug\net7.0-windows\CSCal2NumForms.pdb
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.csproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.Form1.resources
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.csproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.AssemblyInfoInputs.cache
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.AssemblyInfo.cs
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.csproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.dll
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\refint\CSCal2NumForms.dll
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.pdb
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\CSCal2NumForms.genruntimeconfig.cache
+C:\Users\darel\source\repos\VS2022\CS\Forms\CSCal2NumForms\CSCal2NumForms\obj\Debug\net7.0-windows\ref\CSCal2NumForms.dll

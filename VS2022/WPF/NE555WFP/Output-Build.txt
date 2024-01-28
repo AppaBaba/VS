@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: NE555WPF, Configuration: Debug x86 ------
+1>  NE555WPF -> C:\Users\darel\source\repos\VS2019\VS\CS\WPF\NE555WFP\NE555WFP\bin\Debug\NE555WPF.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,12 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Debug\VBDuinoMon.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Debug\VBDuinoMon.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Debug\VBDuinoMon.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\bin\Debug\VBDuinoMon.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.Resources.resources
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMon\VBDuinoMon\obj\Debug\VBDuinoMon.VbduinoMon.resources

@@ -1,0 +1,26 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.pdb
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.pdb
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csprojResolveAssemblyReference.cache
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.exe
+C:\Users\darel\Documents\VS 2010\Projects\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.pdb
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe.config
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.pdb
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.exe
+C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe.config
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\bin\Debug\LinkedListCSharp.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.AssemblyReference.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.csproj.CoreCompileInputs.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\LinkedList\LinkedListCSharp\LinkedListCSharp\obj\x86\Debug\LinkedListCSharp.pdb

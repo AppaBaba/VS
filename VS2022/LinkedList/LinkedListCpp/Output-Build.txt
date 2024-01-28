@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: LinkedListCpp, Configuration: Debug Win32 ------
+1>LinkedListCpp.cpp
+1>LinkedListCpp.vcxproj -> C:\Users\darel\source\repos\VS2019\VS\LinkedList\LinkedListCpp\Debug\LinkedListCpp.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

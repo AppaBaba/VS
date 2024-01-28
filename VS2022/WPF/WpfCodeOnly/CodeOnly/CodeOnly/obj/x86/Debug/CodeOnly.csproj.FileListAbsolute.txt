@@ -1,0 +1,68 @@
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csprojResolveAssemblyReference.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\App.g.cs
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly_MarkupCompile.cache
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.pdb
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.baml
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.g.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.Properties.Resources.resources
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.GenerateResource.Cache
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.exe
+C:\Users\MyMCPC\Documents\Visual Studio 2010\Projects\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csprojAssemblyReference.cache
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\App.g.cs
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly_MarkupCompile.cache
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.g.resources
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.Properties.Resources.resources
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.exe
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.pdb
+C:\Users\darel\source\repos\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe.config
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe.config
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.pdb
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\App.g.cs
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly_MarkupCompile.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.g.resources
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.Properties.Resources.resources
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.exe
+C:\Users\darel\source\repos\VS2019\VS\CS\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe.config
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.AssemblyReference.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\App.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly_MarkupCompile.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.g.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.Properties.Resources.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.GenerateResource.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.CoreCompileInputs.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2019\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe.config
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\bin\Debug\CodeOnly.pdb
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.AssemblyReference.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.SuggestedBindingRedirects.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.baml
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\MainWindow.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\App.g.cs
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly_MarkupCompile.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.g.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.Properties.Resources.resources
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.GenerateResource.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.csproj.CoreCompileInputs.cache
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.exe
+C:\Users\darel\AppaBaba\VisualStudio\VS2022\WPF\WpfCodeOnly\CodeOnly\CodeOnly\obj\x86\Debug\CodeOnly.pdb

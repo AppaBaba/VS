@@ -1,0 +1,17 @@
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\bin\Release\net7.0-windows\VBCal2NumForms.exe
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\bin\Release\net7.0-windows\VBCal2NumForms.deps.json
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\bin\Release\net7.0-windows\VBCal2NumForms.runtimeconfig.json
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\bin\Release\net7.0-windows\VBCal2NumForms.dll
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\bin\Release\net7.0-windows\VBCal2NumForms.pdb
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.vbproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.Form1.resources
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.vbproj.GenerateResource.cache
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.AssemblyInfoInputs.cache
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.AssemblyInfo.vb
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.vbproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.dll
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\refint\VBCal2NumForms.dll
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.pdb
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\VBCal2NumForms.genruntimeconfig.cache
+C:\Users\darel\source\repos\VS2022\VB\VBForm\VBCal2NumForms\VBCal2NumForms\obj\Release\net7.0-windows\ref\VBCal2NumForms.dll

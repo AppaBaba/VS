@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedListInC", "LinkedListInC\LinkedListInC.vcxproj", "{62053AB5-D5B3-47A4-87D3-552AEAAB9E52}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinnkedlistItem", "LinnkedlistItem\LinnkedlistItem.vcxproj", "{2A0DEE59-A4D2-4F44-8819-386E2307018D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedList123", "LinkedList123\LinkedList123.vcxproj", "{21289531-5D7C-472F-A55C-B8F34CF07218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62053AB5-D5B3-47A4-87D3-552AEAAB9E52}.Debug|Win32.ActiveCfg = Debug|Win32
+		{62053AB5-D5B3-47A4-87D3-552AEAAB9E52}.Debug|Win32.Build.0 = Debug|Win32
+		{62053AB5-D5B3-47A4-87D3-552AEAAB9E52}.Release|Win32.ActiveCfg = Release|Win32
+		{62053AB5-D5B3-47A4-87D3-552AEAAB9E52}.Release|Win32.Build.0 = Release|Win32
+		{2A0DEE59-A4D2-4F44-8819-386E2307018D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A0DEE59-A4D2-4F44-8819-386E2307018D}.Debug|Win32.Build.0 = Debug|Win32
+		{2A0DEE59-A4D2-4F44-8819-386E2307018D}.Release|Win32.ActiveCfg = Release|Win32
+		{2A0DEE59-A4D2-4F44-8819-386E2307018D}.Release|Win32.Build.0 = Release|Win32
+		{21289531-5D7C-472F-A55C-B8F34CF07218}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21289531-5D7C-472F-A55C-B8F34CF07218}.Debug|Win32.Build.0 = Debug|Win32
+		{21289531-5D7C-472F-A55C-B8F34CF07218}.Release|Win32.ActiveCfg = Release|Win32
+		{21289531-5D7C-472F-A55C-B8F34CF07218}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

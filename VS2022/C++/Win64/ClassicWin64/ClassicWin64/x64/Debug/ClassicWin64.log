@@ -1,0 +1,3 @@
+﻿  ClassicWin64.cpp
+C:\Users\darel\source\repos\VS2022\C++\Win64\ClassicWin64\ClassicWin64\ClassicWin64.cpp(157,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClassicWin64.vcxproj -> C:\Users\darel\source\repos\VS2022\C++\Win64\ClassicWin64\x64\Debug\ClassicWin64.exe

@@ -1,0 +1,15 @@
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\net6.0\CSConAdd2NumColor.exe
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\net6.0\CSConAdd2NumColor.deps.json
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\net6.0\CSConAdd2NumColor.runtimeconfig.json
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\net6.0\CSConAdd2NumColor.dll
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\bin\Debug\net6.0\CSConAdd2NumColor.pdb
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.csproj.AssemblyReference.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.AssemblyInfoInputs.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.AssemblyInfo.cs
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.csproj.CoreCompileInputs.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.dll
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\refint\CSConAdd2NumColor.dll
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.pdb
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\CSConAdd2NumColor.genruntimeconfig.cache
+C:\Users\darel\source\repos\VS2022\Console\CSCon\CSConAdd2NumColor\CSConAdd2NumColor\obj\Debug\net6.0\ref\CSConAdd2NumColor.dll

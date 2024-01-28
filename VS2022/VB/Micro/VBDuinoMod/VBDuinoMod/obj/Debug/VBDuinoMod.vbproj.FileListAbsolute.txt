@@ -1,0 +1,24 @@
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.exe.config
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.Resources.resources
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.exe
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.xml
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.pdb
+C:\Users\darel\Documents\Visual Studio 2017\Projects\VB\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.VBDuinoMod.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.exe.config
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.pdb
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\bin\Debug\VBDuinoMod.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.vbprojAssemblyReference.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.VBDuinoMod.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.Resources.resources
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.vbproj.GenerateResource.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.vbproj.CoreCompileInputs.cache
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.exe
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.xml
+C:\Users\darel\Documents\GitHub\VisualStudio\VB\VBMicro\VBDuinoMod\VBDuinoMod\obj\Debug\VBDuinoMod.pdb
