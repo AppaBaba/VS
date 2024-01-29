@@ -1,6 +1,6 @@
 ﻿namespace CSConColor
 {
-    class Program
+    class CSConColor
     {
         static void Main(string[] args)
         {
