@@ -1,6 +1,6 @@
 ﻿namespace CSConAdd2NumColor
 {
-    class Program
+    class CSConAdd2NumColor
     {
         static void Main(string[] args)
         {
