@@ -1,10 +1,10 @@
 
-Module Program
+Module VBConAdd2Num
     Sub Main(args As String())
         Dim num1, num2, sum As Integer
 
         Console.WriteLine("Add two Numbers")
-        Console.WriteLine("With .Net 6")
+        Console.WriteLine("With .Net 7")
         Console.WriteLine("Input the first number.")
         num1 = Console.ReadLine()
         Console.WriteLine("Input the second number.")
