@@ -1,5 +1,0 @@
-C:\Users\darel\source\repos\VS\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojAssemblyReference.cache
-C:\Users\darel\source\repos\VS\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll
-C:\Users\darel\AppaBaba\VisualStudio\VS2022\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsproj.AssemblyReference.cache
-C:\Users\darel\AppaBaba\VisualStudio\VS2022\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsproj.CoreCompileInputs.cache
-C:\Users\darel\AppaBaba\VisualStudio\VS2022\Console\NodeJS\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll
