@@ -1,9 +1,9 @@
 
-Module Program
+Module VBConNumGuess
     Sub Main(args As String())
         Console.WriteLine("")
         Console.WriteLine("Console Guess Number")
-        Console.WriteLine("With .Net 6")
+        Console.WriteLine("With .Net 7")
         Console.WriteLine("")
 
         Call GuessNumber()
