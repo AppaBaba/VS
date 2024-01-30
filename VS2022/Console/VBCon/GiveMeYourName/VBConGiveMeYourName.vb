@@ -1,9 +1,9 @@
 
-Module Program
+Module VBConGiveMeYourName
     Sub Main(args As String())
         Dim YourName As String
 
-        Console.WriteLine("This app uses .Net 6")
+        Console.WriteLine("This app uses .Net 7")
         Console.WriteLine("My name is Appa")
         Console.WriteLine("")
         Console.WriteLine("What is your name")
